@@ -21,3 +21,6 @@
 [submodule "extern/sim0mqpp"]
 	path = extern/sim0mqpp
 	url = https://github.com/riebl/sim0mqpp.git
+[submodule "extern/sumo-traffic"]
+	path = extern/sumo-traffic
+	url = https://github.com/kctnky/sumo-traffic.git
